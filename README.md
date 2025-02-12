@@ -17,7 +17,7 @@ Programlar ve oyunlar yaparak yazılım dünyasında kendime yer edinmeyi planl�
 Endituri Meslek Lisesi'nde yazılım bölümü öğrencisiyim. Yazılım ve oyun geliştirme konusunda heyecanlıyım ve bu alanda projeler yaparak deneyim kazanmaya çalışıyorum. Her geçen gün yeni şeyler öğrenmek ve öğrendiklerimi uygulamak için çaba sarf ediyorum.  
 
 **Sosyal Medya Bağlantılarım:**
-- [Twitter](https://twitter.com)
+- [Twitter](https://twitter.com/)
 - [Instagram](https://www.instagram.com)
 
 ---
